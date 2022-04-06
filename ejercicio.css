@@ -1,0 +1,54 @@
+*{
+    margin-bottom: 20px;
+    padding: 0;
+}
+body{
+    background-color: #d6e1ff;
+}
+#contenedor{
+    text-align: center;
+    background-color: white;
+    width: 450px;
+    height: 700px;
+    margin-left: 450px;
+    border-radius: 4em;
+    box-shadow: 0px 15px 40px -15px gray;
+    font-family: tahoma;
+}
+img{
+    border-top-left-radius: 4em;
+    border-top-right-radius: 4em;
+
+}
+footer{
+    border-radius: 4em;
+}
+.titulo , .annual{
+    color: #24324f;
+    font-weight: bold;
+}
+.imagen , .annual , .year , .change{
+    margin: 0px;
+}
+.year , .gris , .cancel{
+    color: #abaeb9;
+}
+.cancel{
+    font-weight: bold;
+}
+.payment{
+    background-color: #382ae1;
+    color: white;
+    height: 10%;
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 1em;
+    padding-top: 5px;
+    box-shadow: 0px 15px 30px -15px gray;
+}
+.icono{
+    background-color: #f8f9fe;
+    border-radius: 1em;
+    width: 80%;
+    margin-left: 10%;
+}
